@@ -8,4 +8,5 @@ import (
 
 func main() {
 	fmt.Println(just_useless_module.String())
+	fmt.Println(just_useless_module.Int())
 }
