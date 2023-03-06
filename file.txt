@@ -1,0 +1,2 @@
+private_key_aws=09db8b4a-bbea-11ed-afa1-0242ac120002
+public_key_aws=ea872ea9-7eb6-4096-a2bc-922e59cddbeb
